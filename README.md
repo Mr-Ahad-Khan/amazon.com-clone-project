@@ -47,11 +47,12 @@ in your browser.
 
 ```
 .
-├── amazon clone project/
+├── amazon.com clone project/
 │   ├── amazon.html     # Main HTML file
-│   └── amazon.css      # Styling for the webpage
+│   ├── amazon.css      # Styling for the webpage
+│   └── image/          # Images used in the project
 │
-└── README.md          # Project documentation
+└── README.md           # Project documentation
 ```
 
 ---
