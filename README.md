@@ -45,11 +45,12 @@ in your browser.
 ## 📂 Project Structure
 
 ```
+README.md
 Amazon-Clone
 │
 ├── amazon.html
 ├── amazon.css
-└── README.md
+
 ```
 
 ---
