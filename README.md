@@ -42,15 +42,16 @@ in your browser.
 
 ---
 
-## 📂 Project Structure
+
+## 📁 Project Structure
 
 ```
-README.md
-Amazon-Clone
+.
+├── amazon clone project/
+│   ├── amazon.html     # Main HTML file
+│   └── amazon.css      # Styling for the webpage
 │
-├── amazon.html
-├── amazon.css
-
+└── README.md          # Project documentation
 ```
 
 ---
