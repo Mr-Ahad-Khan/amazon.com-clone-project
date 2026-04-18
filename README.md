@@ -29,7 +29,7 @@ The page recreates key sections of Amazon’s homepage such as the **navigation 
 To download this project, run:
 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone https://github.com/Mr-Ahad-Khan/amazon.com-clone-project.git
 ```
 
 Then open the project folder and run:
